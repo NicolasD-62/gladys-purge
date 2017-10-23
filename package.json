@@ -1,0 +1,27 @@
+{
+  "name": "gladys-purge",
+  "version": "0.1.0",
+  "description": "Gladys hooks to remove old data from DB.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasD-62/gladys-purge.git"
+  },
+  "keywords": [
+    "Gladys",
+    "Purge",
+    "old data"
+  ],
+  "author": "Nicolas Dubois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasD-62/gladys-purge/issues"
+  },
+  "homepage": "https://github.com/NicolasD-62/gladys-purge#readme"
+}
